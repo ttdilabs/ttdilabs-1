@@ -1,4 +1,4 @@
-//{{NO_DEPENDENCIES}}
+//{{NO_DEPENDENCIES}}test
 // Microsoft Visual C++ generated include file.
 // Used by MathHead.rc
 //
